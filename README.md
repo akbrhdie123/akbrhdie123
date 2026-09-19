@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @akbrhdie123
-- 👀 I’m interested in DevOps or System Administrator
-- 🌱 I’m currently learning Linux and Others
-- 💞️ I’m looking to collaborate on Many people
-- 📫 How to reach me ...
-  Instagram : akbar_hadi_s  
-  linkedin  : https://www.linkedin.com/in/akbrhadiee/
-  Facebook  : Akbar Hadi
-<!---
-akbrhdie123/akbrhdie123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💫 About Me:
+### Hi there 👋, I'm Akbar Hadi Subowo<br><br>🔭 **I’m currently working on** Network Operation Center (NOC), managing network troubleshooting, backbone monitoring (Huawei DWDM, SDH, Fiberhome), and incident resolution[cite: 1].<br>👯 **I’m looking to collaborate on** Open-source projects related to DevOps, system monitoring, and network infrastructure automation.<br>🤝 **I’m looking for help with** Advanced cloud architecture patterns and modern CI/CD pipeline implementations.<br>🌱 **I’m currently learning** Advanced DevOps practices, containerization, and cloud-native monitoring tools[cite: 1].<br>💬 **Ask me about** Technical Support Operations, log analysis (Elasticsearch, Kibana), service monitoring (Datadog, Grafana, AppDynamics), Linux/Windows environments, and networking[cite: 1].<br>⚡ **Fun fact** I have over 8 years of experience in Technical Support Operation across enterprise and telecommunications sectors, handling everything from payment systems (Commuter Line, Tap On Bus) to large-scale network backbones[cite: 1]!<br><br>---<br><br>### 🛠️ Tech Stack & Skills<br>* **Operating Systems:** Linux, Windows[cite: 1]<br>* **Log & Data Analysis:** Elasticsearch, Kibana[cite: 1]<br>* **Service Monitoring:** Datadog, Grafana, AppDynamics[cite: 1]<br>* **Database Management:** MongoDB, MariaDB[cite: 1]<br>* **Networking & Tools:** Huawei DWDM, SDH, Fiberhome, OTDR, Alarm Log[cite: 1]<br><br>### 📫 Connect with me<br>* 💼 LinkedIn: [linkedin.com/in/akbrhadiee](https://www.linkedin.com/in/akbrhadiee)[cite: 1]<br>* 📧 Email: akbarhadisubowo9@gmail.com[cite: 1]
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akbar.hadi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akbar_hadi_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akbrhadiee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akbarhadisubowo9@gmail.com) 
+
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akbrhdie123&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=akbrhdie123&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akbrhdie123&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=akbrhdie123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
